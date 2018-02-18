@@ -5,3 +5,6 @@ In this directory will contain basic data structures like arrays and linked list
 4. Searching
 5. Deleting
 6. Other stuff
+
+### Current data structures
+linked list
