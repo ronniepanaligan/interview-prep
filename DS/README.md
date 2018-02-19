@@ -8,3 +8,4 @@ In this directory will contain basic data structures like arrays and linked list
 
 ### Current data structures
 linked list
+Hash Tables
