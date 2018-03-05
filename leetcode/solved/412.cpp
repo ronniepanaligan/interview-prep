@@ -14,7 +14,7 @@ Runtime: O(N)
 */
 
 vector<string> fizzBuzz(int n) {
-  vector<string> ret(n);
+  vector<string> ret(n); //define return vector
   for (int i = 1; i<=n; ++i) {
     if(i%3 == 0) {
       ret[i-1] += "Fizz";
@@ -23,7 +23,7 @@ vector<string> fizzBuzz(int n) {
       ret[i-1] += "Buzz";
     }
     if(ret[i-1].empth()) {
-      ret[i-1] += to_string(i);
+      ret[i-1] += to_string(i); //to_string converts int to string
     }
   }
   return ret;
