@@ -7,4 +7,4 @@ I'm not that great at technical interviews. Here's a repository that'll help me 
 3. Useful tips I find throughout the web
 4. Other stuff
 
-I like C++, so that's the language I'll be using throughout this repository.
+I like C++, so that's the language I'll be using for a MAJORITY of this repository, however I will occasionally use Java to reference other important topics such as OOP. 
